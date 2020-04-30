@@ -1,0 +1,4 @@
+// <tab> means you should practice using tab completion!
+cd pro<tab>  // move into projects folder
+mkdir learn-git
+cd lea<tab> // move into learn-git folder
